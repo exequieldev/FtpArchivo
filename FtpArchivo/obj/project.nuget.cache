@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fjc7BK3xEl0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Exequiel\\source\\repos\\FtpArchivo\\FtpArchivo\\FtpArchivo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Exequiel\\.nuget\\packages\\fluentftp\\51.1.0\\fluentftp.51.1.0.nupkg.sha512",
+    "C:\\Users\\Exequiel\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
